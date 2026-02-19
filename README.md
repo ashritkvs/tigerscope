@@ -66,12 +66,6 @@ Built as an educational prototype to explore:
 - Storage-first architectures
 - Cost-efficient observability patterns
 
-## 📸 Screenshots
 
-### Dashboard
-![Dashboard](/Users/ashritkommireddy/Desktop/Screenshot\ 2026-02-18\ at\ 7.59.11 PM.png)
-
-### DuckDB Querying Parquet
-![DuckDB](/Users/ashritkommireddy/Desktop/Screenshot\ 2026-02-18\ at\ 7.59.26 PM.png)
 
 
